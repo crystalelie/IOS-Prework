@@ -29,6 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Prework](https://user-images.githubusercontent.com/71612128/132581778-4457b8c9-42d3-48d9-8d47-c5c506d483e9.gif)
+
 
 ## Notes
 
